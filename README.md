@@ -2,7 +2,11 @@
 <h3 align="center">Azure DevOps & Cloud Infrastructure Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Designing+Secure+%26+Scalable+Cloud+Infrastructure;Automating+Everything+with+DevOps;Azure+%7C+AWS+%7C+Terraform+%7C+Kubernetes;Building+CI%2FCD+Pipelines+that+Just+Work" alt="Typing SVG" />
+  <img src="profile.png" width="150" style="border-radius: 50%;" alt="Muhammad Khilji" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=650&lines=16%2B+Years+in+IT+%7C+10%2B+Years+in+Network+%26+Cloud;Designing+Secure+%26+Scalable+Cloud+Infrastructure;Azure+%7C+AWS+%7C+Terraform+%7C+Kubernetes;Automating+Everything+with+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +19,10 @@
 
 ### 🚀 About Me
 
+- 💼 **16+ years** of overall IT experience
+- ☁️ **10+ years** specialized in **Networking & Cloud Infrastructure**
 - 🔧 I design, automate, and manage **secure, scalable cloud infrastructure**
-- ☁️ Working across **Azure** and **AWS** ecosystems
+- 🌐 Deep expertise across **Azure** and **AWS** ecosystems
 - 🏗️ Infrastructure as Code with **Terraform**
 - ⚙️ Container orchestration with **Kubernetes (AKS)** and **Docker**
 - 🔁 Building and optimizing **CI/CD pipelines** with Azure DevOps
